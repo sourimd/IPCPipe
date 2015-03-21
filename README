@@ -1,0 +1,4 @@
+Inter process communication using pipes. Keep in mind that IPC using pipes
+is only between related processes. For unrelated processes use FIFO instead.
+
+Here I have used parent and child processes for the pipe communication
